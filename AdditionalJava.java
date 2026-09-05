@@ -12,6 +12,5 @@ public class AdditionalJava {
         Stream<Integer> sortedStream = nums.stream().sorted();
         sortedStream.forEach((Integer n) -> System.out.println(n));
 
-
-    }
+    }  
 }
