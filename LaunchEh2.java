@@ -15,10 +15,5 @@ public class LaunchEh2 {
         {
             System.out.println("Enter non-zero denominator");
         }
-
-        
-
-        
-
     }
 }
